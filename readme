@@ -1,0 +1,27 @@
+#Package I have Used:
+>> npm i express
+>> npm i mongoose
+>> npm i jsonwebtoken
+>> npm i multer
+>> npm i bcryptjs
+>> npm i dotenv
+>> npm i randomstring
+>> npm i nodemailer
+
+
+#Student CRUD Operation
+>> Create Student Data
+>> Read All Student Data
+>> Read Single Student Data using ID as PARAMS
+>> Update Single Studnet Data using ID as PARAMS
+>> Delete Student Data using ID as PARAMS
+
+
+#Authentication and Authorization
+>> Client Register
+>> Client Login and Generating JWT Token
+>> Auth Middleware to access API
+>> Client Password Update using token
+>> Client Password Reset using nodemail and token
+
+
